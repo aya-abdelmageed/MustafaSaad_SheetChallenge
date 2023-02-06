@@ -112,7 +112,7 @@ int main()
     for (int i = 0; i < 4; i++)
     {
         cin >> v[i];
-	// insert array element in vector -> set elements has to be unique 
+	// insert array element in set -> set elements has to be unique 
         st.insert(v[i]);
     }
     // print the minimum number of horseshoes Valera needs to buy
