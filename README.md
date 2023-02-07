@@ -9,7 +9,7 @@
 - Follow the same style in the repo
     1. Fork the repo first
     1. Determine the directory you want to add this repo to
-    1. Clone the repo buttin in the top right corner (green color) code 
+    1. Clone the repo button in the top right corner (green color) code 
     1. open this repo in your IDE
     1. Follow the following guidelines:
         1. open the folder of problems coloum first  
