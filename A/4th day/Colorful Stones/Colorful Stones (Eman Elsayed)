@@ -1,0 +1,21 @@
+// author : Eman Elsayed
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    string s, t;
+    cin >> s >> t;
+    int cnt = 1;
+    // compare the first char of s with the first char of t
+    for (int i = 0; i < t.size(); i++)
+    { // iterate over s.size() or t.size() because they have the same size
+        if (s[i] == t[i])
+        {
+            cnt++;
+        }
+    }
+    // print the number of stones that are the same color
+    cout << cnt;
+}
