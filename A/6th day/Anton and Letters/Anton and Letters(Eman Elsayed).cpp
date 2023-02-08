@@ -1,5 +1,8 @@
 // author : Eman Elsayed
 
+#include <bits/stdc++.h>
+using namespace std;
+
 int main()
 {
     string s;
