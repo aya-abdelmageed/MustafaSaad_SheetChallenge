@@ -16,7 +16,7 @@
 ### Code
 
 ```cpp
-Wating
+Waiting
 ```
 
 <hr>
@@ -28,5 +28,5 @@ Wating
 ### Code
 
 ```cpp
-Wating
+Waiting
 ```
