@@ -35,7 +35,7 @@ int main()
 
 <br><br>
 
-## 2) [Presents][Presents](https://codeforces.com/contest/136/problem/A)
+## 2) [Presents](https://codeforces.com/contest/136/problem/A)
 ### Code
 
 ```cpp

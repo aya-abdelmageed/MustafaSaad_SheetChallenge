@@ -16,7 +16,7 @@
 ### Code
 
 ```cpp
-string str, ans;
+    string str, ans;
     cin >> str;
     for (auto &i : str)
     {
@@ -41,7 +41,7 @@ string str, ans;
 ### Code
 
 ```cpp
-int n;
+    int n;
     cin >> n;
     vector<int> one, two, three;
     for (int i = 0; i < n; i++)
