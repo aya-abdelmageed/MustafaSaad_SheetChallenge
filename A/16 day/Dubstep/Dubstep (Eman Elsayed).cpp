@@ -16,6 +16,6 @@ int main()
             i += 2;
         }
         else                             // print the character
-            cout << str[i], flag = true; // mark flag to take space if WUB is found in the text not from the front
+            cout << str[i], flag = true; // mark flag to take space if WUB is found in the text not from the front 
     }
 }
