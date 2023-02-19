@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
-
+// use this function to calculate the power of a number in O(logn) time
+// fast power function
 ll power(ll x, ll y, ll p)
 {
     ll res = 1;
@@ -20,5 +21,6 @@ int main()
 {
     int n;
     cin >> n;
+    // use Mod 10 to get the last digit
     cout << power(1378, n, 10);
 }
