@@ -6,8 +6,9 @@ int main()
     int n;
     cin >> n;
     map<string, int> mp;
-    ll sum = 0;
-    mp["Tetrahedron"] = 4;
+    ll sum = 0;  // sum of faces
+    // store the number of faces for each polyhedron
+    mp["Tetrahedron"] = 4; 
     mp["Cube"] = 6;
     mp["Octahedron"] = 8;
     mp["Dodecahedron"] = 12;
@@ -15,8 +16,8 @@ int main()
     for (int i = 0; i < n; i++)
     {
         string entry;
-        cin >> entry;
-        sum += mp[entry];
+        cin >> entry; 
+        sum += mp[entry]; // add the number of faces for each polyhedron
     }
     cout << sum << "\n";
 }
